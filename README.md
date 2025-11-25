@@ -28,9 +28,10 @@
 ### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WeXxQ-o&show_icons=true&theme=tokyonight" alt="WeXxQ's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WeXxQ-o&show_icons=true&theme=tokyonight&hide_border=true" alt="WeXxQ's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeXxQ-o&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeXxQ-o&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
