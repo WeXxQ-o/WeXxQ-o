@@ -27,13 +27,11 @@
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=WeXxQ-o&show_icons=true&theme=tokyonight&hide_border=true" alt="WeXxQ's GitHub stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WeXxQ-o&theme=tokyonight)](https://github.com/WeXxQ-o)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeXxQ-o&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![WeXxQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeXxQ-o&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeXxQ-o&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
