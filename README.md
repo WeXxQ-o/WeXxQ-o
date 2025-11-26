@@ -97,8 +97,7 @@ interests:
 
 <p align="center">
   <a href="https://github.com/WeXxQ-o">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WeXxQ-o&theme=tokyonight" alt="Top Languages by Repo"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WeXxQ-o&theme=tokyonight" alt="Top Languages by Commit"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WeXxQ-o&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
