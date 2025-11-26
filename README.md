@@ -58,11 +58,36 @@ me.say_hi()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WeXxQ-o&theme=tokyonight&hide_border=true)](https://github.com/WeXxQ-o)
 
+[![WeXxQ's github stats](https://bad-apple-github-readme.vercel.app/api?username=WeXxQ-o&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=tokyonight&title_color=00b3ff)](https://github.com/WeXxQ-o)
+
+[![Top Langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=WeXxQ-o&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff)](https://github.com/WeXxQ-o)
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WeXxQ-o&theme=tokyo-night&hide_border=true)](https://github.com/WeXxQ-o)
 
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=WeXxQ-o&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/WeXxQ-o)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/WeXxQ-o/WeXxQ-o/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 
 ## 📫 Connect With Me
 
