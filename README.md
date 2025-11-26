@@ -38,7 +38,6 @@ interests:
   - Open Source
   - DevOps
 
-fun_fact: "I debug with print() and I'm not ashamed! 🐛"
 ```
 
 ---
@@ -98,21 +97,16 @@ fun_fact: "I debug with print() and I'm not ashamed! 🐛"
 
 <p align="center">
   <a href="https://github.com/WeXxQ-o">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeXxQ-o&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&radius=10" alt="Activity Graph"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WeXxQ-o&theme=tokyonight" alt="Top Languages by Repo"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WeXxQ-o&theme=tokyonight" alt="Top Languages by Commit"/>
   </a>
 </p>
 
----
-
-### 🎯 Goals for 2025
-
-<table align="center">
-<tr><td>🎓 Complete first year with solid grades</td><td align="center">🔄</td></tr>
-<tr><td>💻 Build 3 full-stack projects</td><td align="center">🔄</td></tr>
-<tr><td>🌟 Contribute to open-source</td><td align="center">🔄</td></tr>
-<tr><td>⚛️ Learn React & Node.js</td><td align="center">📚</td></tr>
-<tr><td>🐧 Get comfortable with Linux CLI</td><td align="center">🔄</td></tr>
-</table>
+<p align="center">
+  <a href="https://github.com/WeXxQ-o">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeXxQ-o&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&radius=10" alt="Activity Graph"/>
+  </a>
+</p>
 
 ---
 
