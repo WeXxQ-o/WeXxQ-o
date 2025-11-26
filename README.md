@@ -58,10 +58,6 @@ me.say_hi()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WeXxQ-o&theme=tokyonight&hide_border=true)](https://github.com/WeXxQ-o)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WeXxQ-o&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeXxQ-o&layout=compact&theme=tokyonight&hide_border=true)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WeXxQ-o&theme=tokyo-night&hide_border=true)](https://github.com/WeXxQ-o)
 
 </div>
