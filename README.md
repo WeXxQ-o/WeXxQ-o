@@ -1,147 +1,131 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=header"/>
-
+<!-- Header Banner -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+WeXxQ+%F0%9F%91%8B;First-year+Applied+Informatics+Student;Web+Developer+%7C+Python+Enthusiast;Linux+Lover+%F0%9F%90%A7;Always+learning+something+new!)](https://github.com/WeXxQ-o)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=WeXxQ&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+<!-- Intro -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%8E%93+Applied+Informatics+Student;%F0%9F%92%BB+Web+Developer+in+Training;%F0%9F%90%8D+Python+Enthusiast;%F0%9F%90%A7+Linux+Lover;%F0%9F%9A%80+Always+Building+Something+New"/>
+</h3>
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/WeXxQ-o"><img src="https://img.shields.io/badge/GitHub-WeXxQ--o-181717?style=flat-square&logo=github"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=WeXxQ-o&style=flat-square&color=70a5fd"/>
+</p>
 
-```javascript
-const wexxq = {
-    pronouns: "He" | "Him",
-    location: "Slovakia 🇸🇰",
-    education: {
-        university: "Constantine the Philosopher, Nitra",
-        major: "Applied Informatics",
-        year: "First Year"
-    },
-    currentFocus: "Full-stack Development & Linux Mastery",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
-};
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: WeXxQ
+location: Slovakia 🇸🇰
+education:
+  university: Constantine the Philosopher University, Nitra
+  field: Applied Informatics
+  year: 1st Year
+
+current_focus:
+  - Building web projects
+  - Learning full-stack development
+  - Mastering Linux systems
+
+interests:
+  - Web Development
+  - Python Automation
+  - Open Source
+  - DevOps
+
+fun_fact: "I debug with print() and I'm not ashamed! 🐛"
 ```
 
-<br clear="right"/>
-
-### 🎯 What I'm Up To
-
-- 🔭 Currently working on **personal web projects**
-- 🌱 Learning **JavaScript, React & Node.js**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **Python, Web Dev, Linux**
-- ⚡ Fun fact: **I think coffee is a programming language**
-
 ---
 
-## 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python"/>
+  <br><b>Python</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
+  <br><b>HTML</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
+  <br><b>CSS</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript"/>
+  <br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+  <br><b>Linux</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+  <br><b>Git</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+  <br><b>VS Code</b>
+</td>
+</tr>
+</table>
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🧰 Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 📚 Currently Learning
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WeXxQ-o&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/WeXxQ-o)
-
+<details>
+<summary><b>📚 Currently Learning</b></summary>
 <br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WeXxQ-o&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/WeXxQ-o)
-
-</div>
-
----
-
-## 🎯 2025 Goals
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🌟 Contribute to 5+ open-source projects | 🔄 In Progress |
-| 💻 Build a full-stack web application | 🔄 In Progress |
-| 🐧 Master Linux command line | 🔄 In Progress |
-| ⚛️ Learn React.js | 📚 Learning |
-| 🚀 Land my first tech internship | 🎯 Goal |
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker&theme=dark"/>
+</p>
+</details>
 
 ---
 
-## 🌐 Connect With Me
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/WeXxQ-o">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=WeXxQ-o&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WeXxQ-o)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-
-<br>
-
-### 💬 Let's Chat!
-*I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision!*
-
-</div>
+<p align="center">
+  <a href="https://github.com/WeXxQ-o">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WeXxQ-o&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&hide_border=true&radius=10" alt="Activity Graph"/>
+  </a>
+</p>
 
 ---
 
-## 💭 Daily Dev Quote
+### 🎯 Goals for 2025
 
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Vibing To
-
-[![Spotify](https://novatorem-wexxq-o.vercel.app/api/spotify)](https://open.spotify.com/)
-
-</div>
+<table align="center">
+<tr><td>🎓 Complete first year with solid grades</td><td align="center">🔄</td></tr>
+<tr><td>💻 Build 3 full-stack projects</td><td align="center">🔄</td></tr>
+<tr><td>🌟 Contribute to open-source</td><td align="center">🔄</td></tr>
+<tr><td>⚛️ Learn React & Node.js</td><td align="center">📚</td></tr>
+<tr><td>🐧 Get comfortable with Linux CLI</td><td align="center">🔄</td></tr>
+</table>
 
 ---
 
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+---
+
+<!-- Footer -->
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-![Profile Views](https://komarev.com/ghpvc/?username=WeXxQ-o&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
-
-**⭐ From [WeXxQ](https://github.com/WeXxQ-o) with ❤️**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
 
